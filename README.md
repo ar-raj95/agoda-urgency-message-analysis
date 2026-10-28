@@ -22,7 +22,7 @@ Do hotel prices really rise as check-in approaches? This project tests whether a
 ## Repository contents
 
 - [`notebooks/`](notebooks/): the analysis notebook and a step-by-step [guide](notebooks/README.md)
-- `presentation/`: the executive deck
+- `presentation/The_Urgency_Message_Agoda.pptx`: the executive deck
 - `figures/`: charts from the analysis
 
 ## Tools
